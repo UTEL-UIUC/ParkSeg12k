@@ -13,7 +13,7 @@ This repository contains information about **ParkSeg12k**, an open-source datase
 
 ## Access the Dataset
 The dataset is hosted on Hugging Face and can be downloaded here: 
-[UTEL-UIUC/parkseg12k](huggingface.co/datasets/UTEL-UIUC/parkseg12k)
+[UTEL-UIUC/parkseg12k](https://huggingface.co/datasets/UTEL-UIUC/parkseg12k)
 
 ## Citation
 If you use this dataset in your research, please cite the corresponding paper.
