@@ -15,6 +15,16 @@ The dataset is hosted on Hugging Face and can be downloaded here:
 [UTEL-UIUC/parkseg12k](https://huggingface.co/datasets/UTEL-UIUC/parkseg12k)
 
 ## Citation
-If you use this dataset in your research, please cite the corresponding paper.
+If you use this dataset in your research, please cite the corresponding paper:
 
-Note: This citation will be updated with the final publication details once the paper is officially published.
+```bibtex
+@article{qiam2024,
+  title={A Pipeline and NIR-Enhanced Dataset for Parking Lot Segmentation},
+  author={Shirin Qiam and Saipraneeth Devunuri and Lewis J. Lehe},
+  journal={arXiv preprint arXiv:2412.13179},
+  year={2024},
+  url={https://arxiv.org/pdf/2412.13179}
+}
+```
+
+**Note: This citation will be updated with the final publication details once the paper is officially published.**
