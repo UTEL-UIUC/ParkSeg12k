@@ -15,6 +15,8 @@ The dataset is hosted on Hugging Face and can be downloaded here:
 [UTEL-UIUC/parkseg12k](https://huggingface.co/datasets/UTEL-UIUC/parkseg12k)
 
 ## Citation
+The annotation for the mask images in this dataset was created by correcting and processing the **Parking Reform Network (PRN)** data and **OpenStreetMap (OSM)** data to make it suitable for our task. These original datasets were adjusted to meet the specific requirements of our research.
+
 If you use this dataset in your research, please cite the corresponding paper:
 
 ```bibtex
